@@ -1,0 +1,25 @@
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+  float: left;
+}
+
+.author {
+  font-size: 16px;
+  color: #666;
+  display: block;
+  margin-left: 70px;
+}
+
+.minutes {
+  font-size: 12px;
+  color: #999;
+  margin-left: 10px;
+}
+
+.postHeader {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 40px;
+  margin-bottom: 18px;
+}

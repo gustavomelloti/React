@@ -1,0 +1,14 @@
+.header {
+  background-color: #4267b2;
+  border-bottom: 1px #29487d;
+  height: 50px;
+  text-align: center;
+}
+
+.header span {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 50px;
+  font-family: monospace;
+}

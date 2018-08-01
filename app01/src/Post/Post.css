@@ -1,0 +1,13 @@
+.postBox {
+  width: 700px;
+  margin: 30px 25% 0px 25%;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.postMessage {
+  font-size: 16px;
+  color: #666;
+}
